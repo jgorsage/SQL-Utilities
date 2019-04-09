@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\FileLoader\FileLoader\bin\Debug\FileLoader.exe.config
+D:\VisualStudioProjects\FileLoader\FileLoader\bin\Debug\FileLoader.exe
+D:\VisualStudioProjects\FileLoader\FileLoader\bin\Debug\FileLoader.pdb
+D:\VisualStudioProjects\FileLoader\FileLoader\obj\Debug\FileLoader.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\FileLoader\FileLoader\obj\Debug\FileLoader.Form1.resources
+D:\VisualStudioProjects\FileLoader\FileLoader\obj\Debug\FileLoader.Properties.Resources.resources
+D:\VisualStudioProjects\FileLoader\FileLoader\obj\Debug\FileLoader.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\FileLoader\FileLoader\obj\Debug\FileLoader.exe
+D:\VisualStudioProjects\FileLoader\FileLoader\obj\Debug\FileLoader.pdb
+D:\VisualStudioProjects\FileLoader\FileLoader\obj\Debug\FileLoader.Advanced.resources
